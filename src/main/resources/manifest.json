@@ -1,0 +1,30 @@
+{
+    "Group": "Marggx",
+    "Name": "NoWaterForDough",
+    "Version": "0.0.2",
+    "Description": "This removes water from the dough crafting recipe.",
+    "Authors": [
+        {
+            "Name": "Marggx",
+            "Email": "help@marggx.dev",
+            "Url": "marggx.dev"
+        }
+    ],
+    "Website": "marggx.dev",
+    "Main": "dev.marggx.plugin.NoWaterForDough",
+    "ServerVersion": "",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "LoadBefore": {
+        
+    },
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true,
+    "SubPlugins": [
+        
+    ]
+}
