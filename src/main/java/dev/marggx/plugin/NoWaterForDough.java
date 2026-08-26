@@ -6,10 +6,6 @@ import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
 
 import javax.annotation.Nonnull;
 
-/**
- * This class serves as the entrypoint for your plugin. Use the setup method to register into game registries or add
- * event listeners.
- */
 public class NoWaterForDough extends JavaPlugin {
 
     private static final HytaleLogger LOGGER = HytaleLogger.forEnclosingClass();

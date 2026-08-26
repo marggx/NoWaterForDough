@@ -6,13 +6,13 @@
     "Authors": [
         {
             "Name": "Marggx",
-            "Email": "help@marggx.dev",
+            "Email": "hytale@marggx.dev",
             "Url": "marggx.dev"
         }
     ],
     "Website": "marggx.dev",
     "Main": "dev.marggx.plugin.NoWaterForDough",
-    "ServerVersion": "",
+    "ServerVersion": "^0.6.0",
     "Dependencies": {
         
     },
